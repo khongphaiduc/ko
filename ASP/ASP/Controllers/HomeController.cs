@@ -1,9 +1,10 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using ASP.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ASP.Controllers
 {
+    // xin chào Việt Nam
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
